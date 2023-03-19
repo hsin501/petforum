@@ -1,0 +1,72 @@
+[
+    {
+        "mID": "1",
+        "email": "Lee@xxmail.com",
+        "password": "1234",
+        "enabled": "1",
+        "level": "管理員"
+    },
+    {
+        "mID": "2",
+        "email": "Jimmy@xxmail.com",
+        "password": "1234",
+        "enabled": "1",
+        "level": "會員"
+    },
+    {
+        "mID": "3",
+        "email": "Nick@xxmail.com",
+        "password": "1234",
+        "enabled": "0",
+        "level": "會員"
+    },
+    {
+        "mID": "4",
+        "email": "Eric@xxmail.com",
+        "password": "1234",
+        "enabled": "0",
+        "level": "會員"
+    },
+    {
+        "mID": "5",
+        "email": "Amy@xxmail.com",
+        "password": "1234",
+        "enabled": "1",
+        "level": "會員"
+    },
+    {
+        "mID": "6",
+        "email": "Eva@xxmail.com",
+        "password": "1234",
+        "enabled": "1",
+        "level": "會員"
+    },
+    {
+        "mID": "7",
+        "email": "Jenny@xxmail.com",
+        "password": "1234",
+        "enabled": "1",
+        "level": "會員"
+    },
+    {
+        "mID": "8",
+        "email": "Lydia@xxmail.com",
+        "password": "1234",
+        "enabled": "1",
+        "level": "會員"
+    },
+    {
+        "mID": "9",
+        "email": "Kit@xxmail.com",
+        "password": "1234",
+        "enabled": "1",
+        "level": "會員"
+    },
+    {
+        "mID": "10",
+        "email": "Peggie@xxmail.com",
+        "password": "1234",
+        "enabled": "1",
+        "level": "會員"
+    }
+]
